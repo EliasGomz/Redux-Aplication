@@ -1,0 +1,16 @@
+{
+    "translation":{
+        "navigation":{
+            "posts":"Posts",
+            "details": "Details"
+        },
+        "postAdd":{
+            "tittle": "Tittle",
+            "what do you think?": "What do you think?",
+            "add": "Add"
+        },
+        "postFeed":{
+            "comments": "Comments"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+dist
+android
+metro.config.js
+package-lock.json
+app.json
+package.json
+.eslintrc.js
+.prettierrc.js
+.watchmanconfig
+babel.config.js

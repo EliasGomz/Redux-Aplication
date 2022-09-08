@@ -1,0 +1,16 @@
+{
+    "translation":{
+        "navigation":{
+            "posts":"Publicaciones",
+            "details": "Detalles"
+        },
+        "postAdd":{
+            "tittle": "Titulo",
+            "what do you think?": "Que piensas?",
+            "add": "Agregar"
+        },
+        "postFeed":{
+            "comments": "Comentarios"
+        }
+    }
+}
